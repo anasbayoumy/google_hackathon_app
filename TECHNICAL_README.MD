@@ -7,7 +7,7 @@
 [![Wear OS](https://img.shields.io/badge/Wear%20OS-3.0+-orange.svg)](https://wearos.google.com)
 [![Data Layer API](https://img.shields.io/badge/Data%20Layer-API-purple.svg)](https://developer.android.com/training/wearables/data-layer)
 
-> **Comprehensive Technical Documentation** | [Main Documentation](README.md) | [Wear OS App](ai_comp_wearableos/README.md)
+> **Comprehensive Technical Documentation** | [Main Documentation](README.md) | [Wear OS App](https://github.com/anasbayoumy/google_hackathon_watch_os/README.md)
 
 ---
 

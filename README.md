@@ -1,11 +1,13 @@
 # AI Emergency Companion 🚨
 ## *Revolutionary Multi-Device Emergency Response Ecosystem*
 
-[![App GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](#) 
-[![Wear OS GitHub Repository](https://img.shields.io/badge/GitHub-Repository-red.svg)](#) 
+[![App GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/anasbayoumy/google_hackathon_app) 
+[![Wear OS GitHub Repository](https://img.shields.io/badge/GitHub-Repository-red.svg)](https://github.com/anasbayoumy/google_hackathon_watch_os) 
 [![Demo Video](https://img.shields.io/badge/Demo-Video-red.svg)](https://youtu.be/SwPB7AXKsW4) 
 [![Technical Documentation](https://img.shields.io/badge/Docs-Technical-green.svg)](TECHNICAL_README.MD)
-[![Wear OS Companion](https://img.shields.io/badge/Wear%20OS-Companion-orange.svg)](ai_comp_wearableos/README.md)
+[![Wear OS Companion](https://img.shields.io/badge/Wear%20OS-Companion-orange.svg)](https://github.com/anasbayoumy/google_hackathon_watch_os/README.md)
+[![Technical Documentation](https://img.shields.io/badge/Docs-Technical-blue.svg)](https://drive.google.com/drive/u/2/folders/11XYPCejvBs6cKINttF3WSrO2b975g4oA)
+
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.24+-blue.svg)](https://flutter.dev)
 [![Android](https://img.shields.io/badge/Android-7.0+-green.svg)](https://developer.android.com)
@@ -298,12 +300,17 @@ sequenceDiagram
 **🚨 AI Emergency Companion 🚨**
 ## *Revolutionizing Emergency Response Through Intelligent Device Ecosystems*
 
+
+### You can Dowload and test the APK of the App and the Watch here
+[![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://drive.google.com/drive/u/2/folders/1QRTZP-YF0RGBJ5d4pvH3nLmMeruruvXD)
+[![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-blue.svg)](https://drive.google.com/drive/u/2/folders/1iwqyU8GMCgPeyP0K78vrZdsczaQ0x_B7)
+
 *When every second counts, AI Emergency Companion delivers the guidance you need through seamless phone-watch integration and cutting-edge AI technology.*
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://flutter.dev)
 [![Powered by Google AI](https://img.shields.io/badge/Powered%20by-Google%20AI-purple.svg)](https://ai.google.dev/gemma)
-[![Multi-Device Ready](https://img.shields.io/badge/Multi--Device-Ready-orange.svg)](#)
-[![Emergency Optimized](https://img.shields.io/badge/Emergency-Optimized-red.svg)](#)
+<!-- [![Multi-Device Ready](https://img.shields.io/badge/Multi--Device-Ready-orange.svg)]() -->
+<!-- [![Emergency Optimized](https://img.shields.io/badge/Emergency-Optimized-red.svg)]() -->
 
 **Developed for Google Judges | Competition Ready | Global Impact Potential**
 
