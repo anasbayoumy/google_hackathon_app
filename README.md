@@ -19,6 +19,10 @@
 
 ---
 
+### Main App APK: https://drive.google.com/drive/u/2/folders/1QRTZP-YF0RGBJ5d4pvH3nLmMeruruvXD
+### Main App APK but on firebases: https://appdistribution.firebase.dev/i/a1ade19ed512b3c1
+### Wear OS APK: https://drive.google.com/drive/u/2/folders/1iwqyU8GMCgPeyP0K78vrZdsczaQ0x_B7
+
 ## � Innovation Summary for Google Judges
 
 **AI Emergency Companion** represents a paradigm shift in emergency response technology, demonstrating breakthrough innovations in **cross-device AI orchestration**, **offline-first architecture**, and **emergency-optimized user experience design**. This project showcases the future of public safety technology through intelligent device interconnectivity and advanced AI model optimization.
