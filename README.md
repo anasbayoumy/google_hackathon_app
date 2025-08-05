@@ -18,6 +18,11 @@
 > **A revolutionary multi-device emergency response ecosystem that seamlessly integrates Android phones and Wear OS smartwatches, powered by cutting-edge on-device AI to deliver instant, life-saving assistance when connectivity fails and every second counts.**
 
 ---
+# DISCLAEMR!!!!
+
+## PLEASE RUN THE APP ON A 8+gb RAM DEVICE FOR ACTUAL FAST RESULTS AS THE GEMMA 3N E2B MODEL IS VERY BIG AND NEED VERY GOOD DEVICE TO RUN
+ 
+---
 
 ### Main App APK: https://drive.google.com/drive/u/2/folders/1QRTZP-YF0RGBJ5d4pvH3nLmMeruruvXD
 ### Main App APK but on firebases: https://appdistribution.firebase.dev/i/a1ade19ed512b3c1
