@@ -3,6 +3,7 @@ plugins {
     id("kotlin-android")
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id("dev.flutter.flutter-gradle-plugin")
+    id("com.google.gms.google-services")
 }
 
 val core_version = "1.13.1"
@@ -59,6 +60,8 @@ android {
 
 dependencies {
     implementation("androidx.core:core:$core_version")
+    implementation(platform("com.google.firebase:firebase-bom:34.0.0"))
+    implementation("com.google.firebase:firebase-analytics")
     // MediaPipe dependencies - keep what's actually used
     implementation("com.google.mediapipe:tasks-genai:$mediapipe_tasks_version_genai") // For LLM inference
     implementation("com.google.mediapipe:tasks-vision:$mediapipe_tasks_version") // For image processing (BitmapImageBuilder)
