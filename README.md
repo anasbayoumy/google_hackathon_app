@@ -28,7 +28,7 @@
 ### Main App APK but on firebases: https://appdistribution.firebase.dev/i/a1ade19ed512b3c1
 ### Wear OS APK: https://drive.google.com/drive/u/2/folders/1iwqyU8GMCgPeyP0K78vrZdsczaQ0x_B7
 
-## � Innovation Summary for Google Judges
+## Innovation Summary 
 
 **AI Emergency Companion** represents a paradigm shift in emergency response technology, demonstrating breakthrough innovations in **cross-device AI orchestration**, **offline-first architecture**, and **emergency-optimized user experience design**. This project showcases the future of public safety technology through intelligent device interconnectivity and advanced AI model optimization.
 
@@ -202,15 +202,6 @@ sequenceDiagram
 
 ## 📊 Performance & Impact Metrics
 
-### 🎯 **Technical Performance Benchmarks**
-
-| Metric | Target | Achieved | Innovation Impact |
-|--------|--------|----------|-------------------|
-| **Cross-Device Sync** | <500ms | 200-300ms | 40% faster than target |
-| **AI Response Time** | <3s | 1.5-2.0s | Sub-2-second emergency guidance |
-| **Offline Reliability** | 99% | 99.7% | True offline-first architecture |
-| **Device Coverage** | Android 7+ | Android 7+ & Wear OS 3+ | Universal device compatibility |
-| **Battery Efficiency** | 24hr standby | 36hr+ standby | Optimized for emergency scenarios |
 
 ### 🌍 **Global Impact Potential**
 
@@ -254,17 +245,17 @@ sequenceDiagram
 
 ## 🔮 Future Vision & Roadmap
 
-### 📅 **Phase 1: Enhanced Device Ecosystem** (Q4 2025)
+### 📅 **Phase 1: Enhanced Device Ecosystem** 
 - **Multi-Watch Support**: Extend to Galaxy Watch, Pixel Watch, and other Wear OS devices
 - **Tablet Integration**: Emergency coordination center for families and communities
 - **Smart Home Integration**: Integration with Google Nest and smart home emergency systems
 
-### 🌐 **Phase 2: Global Emergency Network** (2026)
+### 🌐 **Phase 2: Global Emergency Network** 
 - **International Protocols**: Localized emergency procedures for 50+ countries
 - **Multi-Language AI**: Emergency response in 15+ languages with cultural adaptation
 - **Government Integration**: Official partnerships with emergency services worldwide
 
-### 🤖 **Phase 3: Next-Generation AI** (2027+)
+### 🤖 **Phase 3: Next-Generation AI** 
 - **Advanced Model Integration**: Integration with future Google AI models
 - **Predictive Emergency Detection**: AI-powered early warning systems
 - **Community Intelligence**: Learning from global emergency patterns to improve responses
@@ -292,7 +283,7 @@ sequenceDiagram
 
 ### 📚 **Comprehensive Documentation**
 - **[🔧 Technical Architecture](TECHNICAL_README.MD)**: Deep technical implementation details
-- **[⌚ Wear OS Integration](/README.md)**: Smartwatch companion documentation
+- **[⌚ Wear OS Integration](https://github.com/anasbayoumy/google_hackathon_watch_os/README.md)**: Smartwatch companion documentation
 - **[🧠 AI Model Optimization](TECHNICAL_README.MD#ai-model-optimization)**: Device-adaptive AI implementation
 - **[📡 Cross-Device Communication](TECHNICAL_README.MD#multi-platform-communication)**: Data Layer API integration
 
