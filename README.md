@@ -302,8 +302,8 @@ sequenceDiagram
 
 
 ### You can Dowload and test the APK of the App and the Watch here
-[![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://drive.google.com/drive/u/2/folders/1QRTZP-YF0RGBJ5d4pvH3nLmMeruruvXD)
-[![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-blue.svg)](https://drive.google.com/drive/u/2/folders/1iwqyU8GMCgPeyP0K78vrZdsczaQ0x_B7)
+[![APK-App Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://drive.google.com/drive/u/2/folders/1QRTZP-YF0RGBJ5d4pvH3nLmMeruruvXD)
+[![APK-Watch Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-blue.svg)](https://drive.google.com/drive/u/2/folders/1iwqyU8GMCgPeyP0K78vrZdsczaQ0x_B7)
 
 *When every second counts, AI Emergency Companion delivers the guidance you need through seamless phone-watch integration and cutting-edge AI technology.*
 
